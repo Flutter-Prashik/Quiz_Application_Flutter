@@ -1,2 +1,7 @@
-# Quiz_Application_Flutter
-Quiz App 
+# Quiz Application
+
+- ![](preview\output_quiz.gif)
+
+## Quiz App Recording Complete working
+
+- ![](preview\quizRec.gif)
